@@ -277,7 +277,7 @@ MonoBehaviour:
   m_Text: "You and your brother are lost in a strange world. \nYou fall into a cave
     and lose consciousness. \nWhen you wake up you find that your brother has gone
     missing(He left you LoL).\n It is your job to find him. \nHe likes pineapple
-    so don't forget to geather some along the way."
+    so don't forget to gather some along the way."
 --- !u!222 &487743558
 CanvasRenderer:
   m_ObjectHideFlags: 0
